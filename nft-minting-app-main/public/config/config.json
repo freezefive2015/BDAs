@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ADDRESS": "0x35ce9aca84fd0a83c693b80c4f6b1a2cae506d70",
+    "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x35ce9aca84fd0a83c693b80c4f6b1a2cae506d70",
+    "NETWORK": {
+        "NAME": "Rinkeby",
+        "SYMBOL": "ETH",
+        "ID": 4
+    },
+    "NFT_NAME": "BDAs NFT",
+    "SYMBOL": "PUNK",
+    "MAX_SUPPLY": 10,
+    "WEI_COST": 4000000000000000000,
+    "DISPLAY_COST": 1,
+    "GAS_LIMIT": 285000,
+    "MARKETPLACE": "Opensea",
+    "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/punks-2-0-v2",
+    "SHOW_BACKGROUND": true
+}
