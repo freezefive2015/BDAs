@@ -204,6 +204,8 @@ function App() {
         <a href={CONFIG.MARKETPLACE_LINK}>
           <StyledLogo alt={"logo"} src={"/config/images/logo.png"} />
         </a>
+        <s.SpacerSmall />
+          </s.Container>
           <s.SpacerLarge />
           <s.Container
             flex={2}
@@ -391,6 +393,8 @@ function App() {
               </>
             )}
             <s.SpacerMedium />
+          </s.Container>
+          <s.SpacerLarge />
           </s.Container>
         </ResponsiveWrapper>
         <s.SpacerMedium />
